@@ -1,0 +1,5 @@
+/localInfo.md
+/.playwright-mcp/
+*.bundle
+.DS_Store
+node_modules/
